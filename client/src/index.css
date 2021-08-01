@@ -1,0 +1,8 @@
+body {
+    background-color:  rgb(240, 248, 255) !important;
+    background-image: url("images/background.png");
+}
+
+* {
+    font-family: 'Heebo', sans-serif !important;
+}
